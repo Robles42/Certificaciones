@@ -1,5 +1,5 @@
 # Portafolio de Certificaciones Profesionales
-### Santiago Robles | Robles42
+### Santiago Robles | 
 
 Este repositorio contiene la documentación y evidencia de mis certificaciones profesionales en ingeniería de software, gestión de proyectos y tecnologías emergentes. Mi formación está orientada a la Innovación y Tecnología Digital, con un enfoque en soluciones escalables y metodologías ágiles.
 
@@ -40,7 +40,53 @@ Este repositorio contiene la documentación y evidencia de mis certificaciones p
 * Manipulación Avanzada de Datos con JavaScript
 * Fundamentos de Programación e Ingeniería de Software
 * Introducción a la Web: Historia y Funcionamiento de Internet
-* Programación Básica
+# Portafolio de Certificaciones Profesionales
+### Carlos Santiago Sanchez Robles
+**Ingeniero en Innovacion y Tecnologia Digital | UPSIN**
+
+Este repositorio contiene una coleccion de 43 certificaciones profesionales obtenidas en Platzi, que validan mis competencias en desarrollo de software, gestion agil de proyectos e inteligencia artificial.
+
+---
+
+## Especializaciones Principales
+
+### Desarrollo Full-Stack e Ingenieria
+Dominio de lenguajes y frameworks para la construccion de aplicaciones escalables.
+* Java: Certificacion en Java SE Avanzado (25 hrs).
+* PHP: Curso de PHP Avanzado (18 hrs).
+* Frameworks Frontend: ReactJS Avanzado (16 hrs) y Angular Avanzado (16 hrs).
+* JavaScript: Manipulacion Avanzada de Datos con JavaScript (6 hrs).
+* Fundamentos: Ingenieria de Software, Git y GitHub (24 hrs).
+
+### Agile y Project Management
+Capacidad para liderar equipos y gestionar entregas orientadas a resultados.
+* Scrum: Certificaciones como Scrum Master e Historias de Usuario en Scrum.
+* Product: Product Owner (Fundamentos y Practico).
+* Herramientas: Gestion de proyectos con Jira y Project Management practico.
+* Metodologias: Agile Delivery Management y Gestion de Equipos Agiles.
+
+### Inteligencia Artificial y Etica
+Implementacion de soluciones de IA con un enfoque responsable.
+* IA Generativa: Stable Diffusion y Midjourney para generacion de imagenes.
+* Estrategia: IA para Finanzas, Servicio al Cliente y Equipos de Datos.
+* Etica: Diseno etico de productos digitales y manejo de datos para Data Science.
+
+### Infraestructura y Ciberseguridad
+Gestion de entornos seguros y administracion de sistemas.
+* Linux: Administracion de servidores Linux (Manejo de Recursos) e Introduccion a la Administracion de Servidores.
+* Redes: Redes de Internet Avanzado y Redes Informaticas.
+* Seguridad: Ciberseguridad para prevencion de ataques y seguridad informatica para equipos tecnicos.
+
+---
+
+## Proyectos Relacionados
+Estas habilidades se aplican actualmente en el desarrollo de mis proyectos:
+* ReportGen AI: Plataforma inteligente para generacion de reportes.
+* IconicHats: Web app de punto de venta para e-commerce.
+* Nexora: Marca de ropa y perfumes con catalogo digital.
+
+---
+Contacto: jestersoek85@gmail.com* Programación Básica
 
 ### Desarrollo Frontend y Frameworks
 * Angular Avanzado
